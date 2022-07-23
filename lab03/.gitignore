@@ -1,0 +1,8 @@
+*.class
+*.log
+*.jar
+.idea
+.bsp
+/project/target/
+/target/
+/project/project/
