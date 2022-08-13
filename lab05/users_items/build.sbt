@@ -4,7 +4,7 @@ ThisBuild / scalaVersion := "2.11.12"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "filter"
+    name := "users_items"
   )
 
 libraryDependencies ++= Seq(
